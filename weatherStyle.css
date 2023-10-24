@@ -211,5 +211,7 @@ a {
 }
 .codedBy {
   font-size: 18px;
-  margin: 0;
+  position: relative;
+  top: -250px;
+  left: -100px;
 }
