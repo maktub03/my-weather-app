@@ -1,0 +1,211 @@
+.content {
+  background: linear-gradient(to top, #40bbdd 0%, rgb(92, 187, 224) 100%);
+  padding: 0px 100px;
+  border-radius: 10px;
+  border-color: transparent;
+  height: 600px;
+  width: 800px;
+}
+body {
+  padding: 20px 200px;
+}
+
+h1 {
+  position: relative;
+  top: 70px;
+  left: -20px;
+  color: black;
+  font-weight: 400;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.856);
+}
+.mainEmoji {
+  position: relative;
+  top: -150px;
+  right: -420px;
+  font-size: 180px;
+}
+h2 {
+  position: relative;
+  top: -310px;
+  left: 450px;
+  font-weight: 200;
+}
+h3 {
+  position: relative;
+  top: -320px;
+  left: 480px;
+  font-weight: 100;
+  font-size: 40px;
+}
+.tempUnit {
+  position: relative;
+  font-size: 27px;
+  top: -12px;
+  left: -12px;
+}
+a {
+  text-decoration: none;
+}
+.cityQuery {
+  position: relative;
+  top: 50px;
+  left: -80px;
+  padding: 4px 60px 4px 4px;
+  font-size: 18px;
+  border-radius: 5px 0px 0px 5px;
+  border-width: 0px;
+}
+
+.citySearch {
+  position: relative;
+  top: 50px;
+  left: -85px;
+  padding: 4px 4px;
+  font-size: 18px;
+  border-radius: 0px 5px 5px 0px;
+  border-width: 0px;
+}
+.currentLocation {
+  position: relative;
+  top: 15px;
+  left: 270px;
+  padding: 4px 10px;
+  font-size: 18px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.first {
+  position: relative;
+  top: -210px;
+  left: -60px;
+  font-size: 80px;
+  color: white;
+}
+.second {
+  position: relative;
+  top: -240px;
+  left: 50px;
+  font-size: 80px;
+  color: white;
+}
+.third {
+  position: relative;
+  top: -270px;
+  left: 170px;
+  font-size: 80px;
+  color: white;
+}
+.fourth {
+  position: relative;
+  top: -400px;
+  left: 250px;
+  font-size: 80px;
+  color: white;
+}
+.fifth {
+  position: relative;
+  top: -540px;
+  left: 340px;
+  font-size: 80px;
+  color: white;
+}
+.sixth {
+  position: relative;
+  top: -580px;
+  left: 435px;
+  font-size: 80px;
+  color: white;
+}
+.temperature {
+  position: relative;
+  top: -920px;
+  left: 0px;
+  bottom: 650px;
+  color: rgba(102, 91, 91, 0.856);
+}
+.day {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 0.856);
+}
+.tempRow {
+  position: relative;
+  top: 250px;
+}
+.mTemp {
+  position: relative;
+  top: 170px;
+  left: -20px;
+  font-size: 30px;
+}
+.tTemp {
+  position: relative;
+  top: 127px;
+  left: 85px;
+  font-size: 30px;
+}
+
+.wTemp {
+  position: relative;
+  top: 82px;
+  left: 180px;
+  font-size: 30px;
+}
+
+.thTemp {
+  position: relative;
+  top: 36px;
+  left: 275px;
+  font-size: 30px;
+}
+.fTemp {
+  position: relative;
+  top: -10px;
+  left: 365px;
+  font-size: 30px;
+}
+.sTemp {
+  position: relative;
+  top: -57px;
+  left: 450px;
+  font-size: 30px;
+}
+.Mon {
+  position: relative;
+  top: -70px;
+  left: -30px;
+  font-size: 30px;
+}
+.Tue {
+  position: relative;
+  top: -115px;
+  left: 80px;
+  font-size: 30px;
+}
+.Wed {
+  position: relative;
+  top: -158px;
+  left: 170px;
+  font-size: 30px;
+}
+.Thurs {
+  position: relative;
+  top: -205px;
+  left: 255px;
+  font-size: 30px;
+}
+.Fri {
+  position: relative;
+  top: -250px;
+  left: 370px;
+  font-size: 30px;
+}
+.Sat {
+  position: relative;
+  top: -295px;
+  left: 450px;
+  font-size: 30px;
+}
